@@ -3086,7 +3086,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 897961547c93fe6439dfb48993ea2ead, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerLife: 1
+  PlayerLife: 3
   ballSpeed: 0
   scoreDisplay: {fileID: 1205010211}
   tCamera: {fileID: 519420032}
